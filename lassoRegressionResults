@@ -1,0 +1,13 @@
+
+----- Results -----
+
+	Compressor Decay Model:
+Error: 0.00021693
+Coefficients:
+[-0. -0.  0.  0. -0. -0. -0. -0.  0. -0.  0.  0.  0.  0. -0. -0.]
+
+	Turbine Decay Model:
+Error: 0.00005587
+Coefficients:
+[ 0.  0.  0.  0.  0.  0.  0. -0.  0. -0.  0. -0. -0.  0. -0. -0.]
+
