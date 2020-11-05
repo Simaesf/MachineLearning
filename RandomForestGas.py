@@ -1,4 +1,13 @@
-# RFHW3.py- Sima Esfandiarpour
+#!/usr/bin/python3
+
+# RandomForestGas.py
+# This code was written on December 2018 for a class project (Machine Learning Course)
+# Sima Esfandiarpour Borujeni
+
+# "This code uses Random Forest method from scikit-learn to predict the concentration level...
+# ...of 6 gas types based on the measurementsfrom 16 sensors. The dataset is split to test...
+# ...and train set with 70% and 30% of the data points respectively. The process is repeated...
+# ... with 1,30,200,800, 2000 estimator to check the accuracy of the prediction..."
 
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
